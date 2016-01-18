@@ -1,0 +1,6 @@
+5001,magic ball,icon_li,damage 80,SingleTarget,Attack,350,0,20,10,Magician,1,Enemy,5,Efx_CriticalStrike,Sword-AttackCritical,1.1
+5002,add HP,icon_up,add 30HP,Passive,HP,30,0,10,20,Magician,2,Self,0,Heal_Effect,Sword-Skill01,0.83
+5003,add MP,icon_zhu,add 20MP,Passive,MP,20,0,0,30,Magician,5,Self,0,Effect_BlueHeal,Sword-Skill01,0.83
+5004,magic explosion,iocn_fo,attack +200 last 15s,Buff,Attack,200,15,30,30,Magician,1,Self,0,RangeMagic_Effect,Sword-Skill02,1.1
+5005,attack speed,iocn_ho,attack speed 200% last 30s,Buff,AttackSpeed,200,30,30,30,Magician,1,Self,0,Efx_One-handQuicken,Sword-Cast,1.1
+5006,Powerful Skill,iocn_yi,attack 130 to all enemies,MultiTarget,Attack,400,0,50,40,Magician,1,Position,10,MagicSphere_effect,Sword-Skill02,0.8
